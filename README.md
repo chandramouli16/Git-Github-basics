@@ -1,5 +1,5 @@
 # Git-Github-basics
-This Repository Contains basic learning stuff for beginners in git amd github along with commands cheetsheet in txt file.
+This Repository Contains basic learning stuff for beginners in git and github along with commands cheetsheet in txt file.
 
 A brief intro:
     
