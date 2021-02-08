@@ -1,5 +1,5 @@
 # Git-Github-basics
-This Folder Contains basic learning stuff for begineers in git amd github.
+This Repository Contains basic learning stuff for beginners in git amd github along with commands cheetsheet in txt file.
 
 A brief intro:
     
